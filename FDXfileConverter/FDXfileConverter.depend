@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483682664 source:c:\users\kirito\desktop\baruchprograms\fdxfileconverter\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cctype>
+
